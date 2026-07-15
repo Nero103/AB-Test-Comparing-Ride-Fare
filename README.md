@@ -1,6 +1,6 @@
 # AB-Test-Comparing-Ride-Fare
 
-Statistical A/B testing project analyzing New York City TLC ride payment data to determine whether credit card or cash payments generate higher ride revenue.-
+Statistical A/B testing project analyzing New York City TLC ride payment data to determine whether credit card or cash payments generate higher ride revenue.
 
 # Overview
 
